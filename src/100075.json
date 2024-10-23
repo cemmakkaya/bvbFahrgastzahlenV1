@@ -1,0 +1,1486 @@
+[
+  {
+    "startdatum_kalenderwoche_monat": "2020-02-03",
+    "fahrgaeste_einsteiger": 2507000,
+    "kalenderwoche": 6,
+    "granularitat": "Woche",
+    "datum_der_monatswerte": null
+  },
+  {
+    "startdatum_kalenderwoche_monat": "2020-02-24",
+    "fahrgaeste_einsteiger": 2168000,
+    "kalenderwoche": 9,
+    "granularitat": "Woche",
+    "datum_der_monatswerte": null
+  },
+  {
+    "startdatum_kalenderwoche_monat": "2020-03-23",
+    "fahrgaeste_einsteiger": 572000,
+    "kalenderwoche": 13,
+    "granularitat": "Woche",
+    "datum_der_monatswerte": null
+  },
+  {
+    "startdatum_kalenderwoche_monat": "2020-04-27",
+    "fahrgaeste_einsteiger": 780000,
+    "kalenderwoche": 18,
+    "granularitat": "Woche",
+    "datum_der_monatswerte": null
+  },
+  {
+    "startdatum_kalenderwoche_monat": "2020-05-04",
+    "fahrgaeste_einsteiger": 915000,
+    "kalenderwoche": 19,
+    "granularitat": "Woche",
+    "datum_der_monatswerte": null
+  },
+  {
+    "startdatum_kalenderwoche_monat": "2020-05-11",
+    "fahrgaeste_einsteiger": 1232000,
+    "kalenderwoche": 20,
+    "granularitat": "Woche",
+    "datum_der_monatswerte": null
+  },
+  {
+    "startdatum_kalenderwoche_monat": "2020-05-18",
+    "fahrgaeste_einsteiger": 1153000,
+    "kalenderwoche": 21,
+    "granularitat": "Woche",
+    "datum_der_monatswerte": null
+  },
+  {
+    "startdatum_kalenderwoche_monat": "2020-06-29",
+    "fahrgaeste_einsteiger": 1628000,
+    "kalenderwoche": 27,
+    "granularitat": "Woche",
+    "datum_der_monatswerte": null
+  },
+  {
+    "startdatum_kalenderwoche_monat": "2020-07-13",
+    "fahrgaeste_einsteiger": 1430000,
+    "kalenderwoche": 29,
+    "granularitat": "Woche",
+    "datum_der_monatswerte": null
+  },
+  {
+    "startdatum_kalenderwoche_monat": "2020-07-20",
+    "fahrgaeste_einsteiger": 1421000,
+    "kalenderwoche": 30,
+    "granularitat": "Woche",
+    "datum_der_monatswerte": null
+  },
+  {
+    "startdatum_kalenderwoche_monat": "2020-08-03",
+    "fahrgaeste_einsteiger": 1584000,
+    "kalenderwoche": 32,
+    "granularitat": "Woche",
+    "datum_der_monatswerte": null
+  },
+  {
+    "startdatum_kalenderwoche_monat": "2020-08-17",
+    "fahrgaeste_einsteiger": 1678000,
+    "kalenderwoche": 34,
+    "granularitat": "Woche",
+    "datum_der_monatswerte": null
+  },
+  {
+    "startdatum_kalenderwoche_monat": "2020-09-28",
+    "fahrgaeste_einsteiger": 1654000,
+    "kalenderwoche": 40,
+    "granularitat": "Woche",
+    "datum_der_monatswerte": null
+  },
+  {
+    "startdatum_kalenderwoche_monat": "2020-10-05",
+    "fahrgaeste_einsteiger": 1427000,
+    "kalenderwoche": 41,
+    "granularitat": "Woche",
+    "datum_der_monatswerte": null
+  },
+  {
+    "startdatum_kalenderwoche_monat": "2020-10-26",
+    "fahrgaeste_einsteiger": 1648000,
+    "kalenderwoche": 44,
+    "granularitat": "Woche",
+    "datum_der_monatswerte": null
+  },
+  {
+    "startdatum_kalenderwoche_monat": "2020-11-23",
+    "fahrgaeste_einsteiger": 1581000,
+    "kalenderwoche": 48,
+    "granularitat": "Woche",
+    "datum_der_monatswerte": null
+  },
+  {
+    "startdatum_kalenderwoche_monat": "2020-11-30",
+    "fahrgaeste_einsteiger": 1606000,
+    "kalenderwoche": 49,
+    "granularitat": "Woche",
+    "datum_der_monatswerte": null
+  },
+  {
+    "startdatum_kalenderwoche_monat": "2020-12-07",
+    "fahrgaeste_einsteiger": 1568000,
+    "kalenderwoche": 50,
+    "granularitat": "Woche",
+    "datum_der_monatswerte": null
+  },
+  {
+    "startdatum_kalenderwoche_monat": "2020-12-28",
+    "fahrgaeste_einsteiger": 1008000,
+    "kalenderwoche": 53,
+    "granularitat": "Woche",
+    "datum_der_monatswerte": null
+  },
+  {
+    "startdatum_kalenderwoche_monat": "2021-02-01",
+    "fahrgaeste_einsteiger": 1363000,
+    "kalenderwoche": 5,
+    "granularitat": "Woche",
+    "datum_der_monatswerte": null
+  },
+  {
+    "startdatum_kalenderwoche_monat": "2021-03-22",
+    "fahrgaeste_einsteiger": 1551000,
+    "kalenderwoche": 12,
+    "granularitat": "Woche",
+    "datum_der_monatswerte": null
+  },
+  {
+    "startdatum_kalenderwoche_monat": "2021-03-29",
+    "fahrgaeste_einsteiger": 1367000,
+    "kalenderwoche": 13,
+    "granularitat": "Woche",
+    "datum_der_monatswerte": null
+  },
+  {
+    "startdatum_kalenderwoche_monat": "2021-04-12",
+    "fahrgaeste_einsteiger": 1564000,
+    "kalenderwoche": 15,
+    "granularitat": "Woche",
+    "datum_der_monatswerte": null
+  },
+  {
+    "startdatum_kalenderwoche_monat": "2021-05-24",
+    "fahrgaeste_einsteiger": 1596000,
+    "kalenderwoche": 21,
+    "granularitat": "Woche",
+    "datum_der_monatswerte": null
+  },
+  {
+    "startdatum_kalenderwoche_monat": "2021-07-12",
+    "fahrgaeste_einsteiger": 1481000,
+    "kalenderwoche": 28,
+    "granularitat": "Woche",
+    "datum_der_monatswerte": null
+  },
+  {
+    "startdatum_kalenderwoche_monat": "2021-09-13",
+    "fahrgaeste_einsteiger": 1779000,
+    "kalenderwoche": 37,
+    "granularitat": "Woche",
+    "datum_der_monatswerte": null
+  },
+  {
+    "startdatum_kalenderwoche_monat": "2021-10-11",
+    "fahrgaeste_einsteiger": 1690000,
+    "kalenderwoche": 41,
+    "granularitat": "Woche",
+    "datum_der_monatswerte": null
+  },
+  {
+    "startdatum_kalenderwoche_monat": "2021-11-08",
+    "fahrgaeste_einsteiger": 1960000,
+    "kalenderwoche": 45,
+    "granularitat": "Woche",
+    "datum_der_monatswerte": null
+  },
+  {
+    "startdatum_kalenderwoche_monat": "2021-12-13",
+    "fahrgaeste_einsteiger": 1979000,
+    "kalenderwoche": 50,
+    "granularitat": "Woche",
+    "datum_der_monatswerte": null
+  },
+  {
+    "startdatum_kalenderwoche_monat": "2021-12-27",
+    "fahrgaeste_einsteiger": 1318000,
+    "kalenderwoche": 52,
+    "granularitat": "Woche",
+    "datum_der_monatswerte": null
+  },
+  {
+    "startdatum_kalenderwoche_monat": "2022-01-10",
+    "fahrgaeste_einsteiger": 1724000,
+    "kalenderwoche": 2,
+    "granularitat": "Woche",
+    "datum_der_monatswerte": null
+  },
+  {
+    "startdatum_kalenderwoche_monat": "2022-01-24",
+    "fahrgaeste_einsteiger": 1790000,
+    "kalenderwoche": 4,
+    "granularitat": "Woche",
+    "datum_der_monatswerte": null
+  },
+  {
+    "startdatum_kalenderwoche_monat": "2022-02-14",
+    "fahrgaeste_einsteiger": 1890000,
+    "kalenderwoche": 7,
+    "granularitat": "Woche",
+    "datum_der_monatswerte": null
+  },
+  {
+    "startdatum_kalenderwoche_monat": "2022-02-28",
+    "fahrgaeste_einsteiger": 1795000,
+    "kalenderwoche": 9,
+    "granularitat": "Woche",
+    "datum_der_monatswerte": null
+  },
+  {
+    "startdatum_kalenderwoche_monat": "2022-03-14",
+    "fahrgaeste_einsteiger": 1900000,
+    "kalenderwoche": 11,
+    "granularitat": "Woche",
+    "datum_der_monatswerte": null
+  },
+  {
+    "startdatum_kalenderwoche_monat": "2022-03-28",
+    "fahrgaeste_einsteiger": 2026000,
+    "kalenderwoche": 13,
+    "granularitat": "Woche",
+    "datum_der_monatswerte": null
+  },
+  {
+    "startdatum_kalenderwoche_monat": "2022-04-11",
+    "fahrgaeste_einsteiger": 1677000,
+    "kalenderwoche": 15,
+    "granularitat": "Woche",
+    "datum_der_monatswerte": null
+  },
+  {
+    "startdatum_kalenderwoche_monat": "2022-04-18",
+    "fahrgaeste_einsteiger": 1678000,
+    "kalenderwoche": 16,
+    "granularitat": "Woche",
+    "datum_der_monatswerte": null
+  },
+  {
+    "startdatum_kalenderwoche_monat": "2022-04-25",
+    "fahrgaeste_einsteiger": 2137000,
+    "kalenderwoche": 17,
+    "granularitat": "Woche",
+    "datum_der_monatswerte": null
+  },
+  {
+    "startdatum_kalenderwoche_monat": "2022-05-02",
+    "fahrgaeste_einsteiger": 2130000,
+    "kalenderwoche": 18,
+    "granularitat": "Woche",
+    "datum_der_monatswerte": null
+  },
+  {
+    "startdatum_kalenderwoche_monat": "2022-05-09",
+    "fahrgaeste_einsteiger": 2143000,
+    "kalenderwoche": 19,
+    "granularitat": "Woche",
+    "datum_der_monatswerte": null
+  },
+  {
+    "startdatum_kalenderwoche_monat": "2022-05-30",
+    "fahrgaeste_einsteiger": 2013000,
+    "kalenderwoche": 22,
+    "granularitat": "Woche",
+    "datum_der_monatswerte": null
+  },
+  {
+    "startdatum_kalenderwoche_monat": "2022-07-04",
+    "fahrgaeste_einsteiger": 1702000,
+    "kalenderwoche": 27,
+    "granularitat": "Woche",
+    "datum_der_monatswerte": null
+  },
+  {
+    "startdatum_kalenderwoche_monat": "2022-11-07",
+    "fahrgaeste_einsteiger": 2539000,
+    "kalenderwoche": 45,
+    "granularitat": "Woche",
+    "datum_der_monatswerte": null
+  },
+  {
+    "startdatum_kalenderwoche_monat": "2022-11-14",
+    "fahrgaeste_einsteiger": 2225000,
+    "kalenderwoche": 46,
+    "granularitat": "Woche",
+    "datum_der_monatswerte": null
+  },
+  {
+    "startdatum_kalenderwoche_monat": "2022-12-05",
+    "fahrgaeste_einsteiger": 2329000,
+    "kalenderwoche": 49,
+    "granularitat": "Woche",
+    "datum_der_monatswerte": null
+  },
+  {
+    "startdatum_kalenderwoche_monat": "2022-12-12",
+    "fahrgaeste_einsteiger": 2475000,
+    "kalenderwoche": 50,
+    "granularitat": "Woche",
+    "datum_der_monatswerte": null
+  },
+  {
+    "startdatum_kalenderwoche_monat": "2022-12-19",
+    "fahrgaeste_einsteiger": 2156000,
+    "kalenderwoche": 51,
+    "granularitat": "Woche",
+    "datum_der_monatswerte": null
+  },
+  {
+    "startdatum_kalenderwoche_monat": "2023-01-02",
+    "fahrgaeste_einsteiger": 1769000,
+    "kalenderwoche": 1,
+    "granularitat": "Woche",
+    "datum_der_monatswerte": null
+  },
+  {
+    "startdatum_kalenderwoche_monat": "2023-01-16",
+    "fahrgaeste_einsteiger": 2248000,
+    "kalenderwoche": 3,
+    "granularitat": "Woche",
+    "datum_der_monatswerte": null
+  },
+  {
+    "startdatum_kalenderwoche_monat": "2023-01-23",
+    "fahrgaeste_einsteiger": 2210000,
+    "kalenderwoche": 4,
+    "granularitat": "Woche",
+    "datum_der_monatswerte": null
+  },
+  {
+    "startdatum_kalenderwoche_monat": "2023-02-06",
+    "fahrgaeste_einsteiger": 2227000,
+    "kalenderwoche": 6,
+    "granularitat": "Woche",
+    "datum_der_monatswerte": null
+  },
+  {
+    "startdatum_kalenderwoche_monat": "2023-02-20",
+    "fahrgaeste_einsteiger": 1947000,
+    "kalenderwoche": 8,
+    "granularitat": "Woche",
+    "datum_der_monatswerte": null
+  },
+  {
+    "startdatum_kalenderwoche_monat": "2023-04-03",
+    "fahrgaeste_einsteiger": 1869000,
+    "kalenderwoche": 14,
+    "granularitat": "Woche",
+    "datum_der_monatswerte": null
+  },
+  {
+    "startdatum_kalenderwoche_monat": "2023-04-10",
+    "fahrgaeste_einsteiger": 1869000,
+    "kalenderwoche": 15,
+    "granularitat": "Woche",
+    "datum_der_monatswerte": null
+  },
+  {
+    "startdatum_kalenderwoche_monat": "2023-05-29",
+    "fahrgaeste_einsteiger": 2140000,
+    "kalenderwoche": 22,
+    "granularitat": "Woche",
+    "datum_der_monatswerte": null
+  },
+  {
+    "startdatum_kalenderwoche_monat": "2023-07-03",
+    "fahrgaeste_einsteiger": 1826000,
+    "kalenderwoche": 27,
+    "granularitat": "Woche",
+    "datum_der_monatswerte": null
+  },
+  {
+    "startdatum_kalenderwoche_monat": "2023-07-17",
+    "fahrgaeste_einsteiger": 1745000,
+    "kalenderwoche": 29,
+    "granularitat": "Woche",
+    "datum_der_monatswerte": null
+  },
+  {
+    "startdatum_kalenderwoche_monat": "2023-07-24",
+    "fahrgaeste_einsteiger": 1730000,
+    "kalenderwoche": 30,
+    "granularitat": "Woche",
+    "datum_der_monatswerte": null
+  },
+  {
+    "startdatum_kalenderwoche_monat": "2023-09-18",
+    "fahrgaeste_einsteiger": 2139000,
+    "kalenderwoche": 38,
+    "granularitat": "Woche",
+    "datum_der_monatswerte": null
+  },
+  {
+    "startdatum_kalenderwoche_monat": "2023-10-09",
+    "fahrgaeste_einsteiger": 1864000,
+    "kalenderwoche": 41,
+    "granularitat": "Woche",
+    "datum_der_monatswerte": null
+  },
+  {
+    "startdatum_kalenderwoche_monat": "2023-10-16",
+    "fahrgaeste_einsteiger": 1938000,
+    "kalenderwoche": 42,
+    "granularitat": "Woche",
+    "datum_der_monatswerte": null
+  },
+  {
+    "startdatum_kalenderwoche_monat": "2023-11-06",
+    "fahrgaeste_einsteiger": 2619000,
+    "kalenderwoche": 45,
+    "granularitat": "Woche",
+    "datum_der_monatswerte": null
+  },
+  {
+    "startdatum_kalenderwoche_monat": "2023-11-13",
+    "fahrgaeste_einsteiger": 2394000,
+    "kalenderwoche": 46,
+    "granularitat": "Woche",
+    "datum_der_monatswerte": null
+  },
+  {
+    "startdatum_kalenderwoche_monat": "2023-12-04",
+    "fahrgaeste_einsteiger": 2577000,
+    "kalenderwoche": 49,
+    "granularitat": "Woche",
+    "datum_der_monatswerte": null
+  },
+  {
+    "startdatum_kalenderwoche_monat": "2023-12-11",
+    "fahrgaeste_einsteiger": 2556000,
+    "kalenderwoche": 50,
+    "granularitat": "Woche",
+    "datum_der_monatswerte": null
+  },
+  {
+    "startdatum_kalenderwoche_monat": "2023-12-25",
+    "fahrgaeste_einsteiger": 1494000,
+    "kalenderwoche": 52,
+    "granularitat": "Woche",
+    "datum_der_monatswerte": null
+  },
+  {
+    "startdatum_kalenderwoche_monat": "2020-02-10",
+    "fahrgaeste_einsteiger": 2538000,
+    "kalenderwoche": 7,
+    "granularitat": "Woche",
+    "datum_der_monatswerte": null
+  },
+  {
+    "startdatum_kalenderwoche_monat": "2020-02-17",
+    "fahrgaeste_einsteiger": 2479000,
+    "kalenderwoche": 8,
+    "granularitat": "Woche",
+    "datum_der_monatswerte": null
+  },
+  {
+    "startdatum_kalenderwoche_monat": "2020-03-02",
+    "fahrgaeste_einsteiger": 1873000,
+    "kalenderwoche": 10,
+    "granularitat": "Woche",
+    "datum_der_monatswerte": null
+  },
+  {
+    "startdatum_kalenderwoche_monat": "2020-03-09",
+    "fahrgaeste_einsteiger": 1932000,
+    "kalenderwoche": 11,
+    "granularitat": "Woche",
+    "datum_der_monatswerte": null
+  },
+  {
+    "startdatum_kalenderwoche_monat": "2020-03-30",
+    "fahrgaeste_einsteiger": 608000,
+    "kalenderwoche": 14,
+    "granularitat": "Woche",
+    "datum_der_monatswerte": null
+  },
+  {
+    "startdatum_kalenderwoche_monat": "2020-04-06",
+    "fahrgaeste_einsteiger": 588000,
+    "kalenderwoche": 15,
+    "granularitat": "Woche",
+    "datum_der_monatswerte": null
+  },
+  {
+    "startdatum_kalenderwoche_monat": "2020-04-13",
+    "fahrgaeste_einsteiger": 613000,
+    "kalenderwoche": 16,
+    "granularitat": "Woche",
+    "datum_der_monatswerte": null
+  },
+  {
+    "startdatum_kalenderwoche_monat": "2020-05-25",
+    "fahrgaeste_einsteiger": 1402000,
+    "kalenderwoche": 22,
+    "granularitat": "Woche",
+    "datum_der_monatswerte": null
+  },
+  {
+    "startdatum_kalenderwoche_monat": "2020-06-01",
+    "fahrgaeste_einsteiger": 1348000,
+    "kalenderwoche": 23,
+    "granularitat": "Woche",
+    "datum_der_monatswerte": null
+  },
+  {
+    "startdatum_kalenderwoche_monat": "2020-06-08",
+    "fahrgaeste_einsteiger": 1475000,
+    "kalenderwoche": 24,
+    "granularitat": "Woche",
+    "datum_der_monatswerte": null
+  },
+  {
+    "startdatum_kalenderwoche_monat": "2020-06-15",
+    "fahrgaeste_einsteiger": 1714000,
+    "kalenderwoche": 25,
+    "granularitat": "Woche",
+    "datum_der_monatswerte": null
+  },
+  {
+    "startdatum_kalenderwoche_monat": "2020-06-22",
+    "fahrgaeste_einsteiger": 1722000,
+    "kalenderwoche": 26,
+    "granularitat": "Woche",
+    "datum_der_monatswerte": null
+  },
+  {
+    "startdatum_kalenderwoche_monat": "2020-07-27",
+    "fahrgaeste_einsteiger": 1379000,
+    "kalenderwoche": 31,
+    "granularitat": "Woche",
+    "datum_der_monatswerte": null
+  },
+  {
+    "startdatum_kalenderwoche_monat": "2020-08-31",
+    "fahrgaeste_einsteiger": 1784000,
+    "kalenderwoche": 36,
+    "granularitat": "Woche",
+    "datum_der_monatswerte": null
+  },
+  {
+    "startdatum_kalenderwoche_monat": "2020-09-14",
+    "fahrgaeste_einsteiger": 1747000,
+    "kalenderwoche": 38,
+    "granularitat": "Woche",
+    "datum_der_monatswerte": null
+  },
+  {
+    "startdatum_kalenderwoche_monat": "2020-09-21",
+    "fahrgaeste_einsteiger": 1797000,
+    "kalenderwoche": 39,
+    "granularitat": "Woche",
+    "datum_der_monatswerte": null
+  },
+  {
+    "startdatum_kalenderwoche_monat": "2020-10-12",
+    "fahrgaeste_einsteiger": 1811000,
+    "kalenderwoche": 42,
+    "granularitat": "Woche",
+    "datum_der_monatswerte": null
+  },
+  {
+    "startdatum_kalenderwoche_monat": "2020-12-14",
+    "fahrgaeste_einsteiger": 1563000,
+    "kalenderwoche": 51,
+    "granularitat": "Woche",
+    "datum_der_monatswerte": null
+  },
+  {
+    "startdatum_kalenderwoche_monat": "2021-01-18",
+    "fahrgaeste_einsteiger": 1334000,
+    "kalenderwoche": 3,
+    "granularitat": "Woche",
+    "datum_der_monatswerte": null
+  },
+  {
+    "startdatum_kalenderwoche_monat": "2021-04-05",
+    "fahrgaeste_einsteiger": 1322000,
+    "kalenderwoche": 14,
+    "granularitat": "Woche",
+    "datum_der_monatswerte": null
+  },
+  {
+    "startdatum_kalenderwoche_monat": "2021-04-19",
+    "fahrgaeste_einsteiger": 1629000,
+    "kalenderwoche": 16,
+    "granularitat": "Woche",
+    "datum_der_monatswerte": null
+  },
+  {
+    "startdatum_kalenderwoche_monat": "2021-04-26",
+    "fahrgaeste_einsteiger": 1573000,
+    "kalenderwoche": 17,
+    "granularitat": "Woche",
+    "datum_der_monatswerte": null
+  },
+  {
+    "startdatum_kalenderwoche_monat": "2021-05-03",
+    "fahrgaeste_einsteiger": 1724000,
+    "kalenderwoche": 18,
+    "granularitat": "Woche",
+    "datum_der_monatswerte": null
+  },
+  {
+    "startdatum_kalenderwoche_monat": "2021-05-17",
+    "fahrgaeste_einsteiger": 1691000,
+    "kalenderwoche": 20,
+    "granularitat": "Woche",
+    "datum_der_monatswerte": null
+  },
+  {
+    "startdatum_kalenderwoche_monat": "2021-05-31",
+    "fahrgaeste_einsteiger": 1767000,
+    "kalenderwoche": 22,
+    "granularitat": "Woche",
+    "datum_der_monatswerte": null
+  },
+  {
+    "startdatum_kalenderwoche_monat": "2021-06-14",
+    "fahrgaeste_einsteiger": 1715000,
+    "kalenderwoche": 24,
+    "granularitat": "Woche",
+    "datum_der_monatswerte": null
+  },
+  {
+    "startdatum_kalenderwoche_monat": "2021-06-28",
+    "fahrgaeste_einsteiger": 1782000,
+    "kalenderwoche": 26,
+    "granularitat": "Woche",
+    "datum_der_monatswerte": null
+  },
+  {
+    "startdatum_kalenderwoche_monat": "2021-07-05",
+    "fahrgaeste_einsteiger": 1572000,
+    "kalenderwoche": 27,
+    "granularitat": "Woche",
+    "datum_der_monatswerte": null
+  },
+  {
+    "startdatum_kalenderwoche_monat": "2021-07-19",
+    "fahrgaeste_einsteiger": 1418000,
+    "kalenderwoche": 29,
+    "granularitat": "Woche",
+    "datum_der_monatswerte": null
+  },
+  {
+    "startdatum_kalenderwoche_monat": "2021-07-26",
+    "fahrgaeste_einsteiger": 1439000,
+    "kalenderwoche": 30,
+    "granularitat": "Woche",
+    "datum_der_monatswerte": null
+  },
+  {
+    "startdatum_kalenderwoche_monat": "2021-08-16",
+    "fahrgaeste_einsteiger": 1751000,
+    "kalenderwoche": 33,
+    "granularitat": "Woche",
+    "datum_der_monatswerte": null
+  },
+  {
+    "startdatum_kalenderwoche_monat": "2021-08-23",
+    "fahrgaeste_einsteiger": 1752000,
+    "kalenderwoche": 34,
+    "granularitat": "Woche",
+    "datum_der_monatswerte": null
+  },
+  {
+    "startdatum_kalenderwoche_monat": "2021-08-30",
+    "fahrgaeste_einsteiger": 1808000,
+    "kalenderwoche": 35,
+    "granularitat": "Woche",
+    "datum_der_monatswerte": null
+  },
+  {
+    "startdatum_kalenderwoche_monat": "2021-09-20",
+    "fahrgaeste_einsteiger": 1947000,
+    "kalenderwoche": 38,
+    "granularitat": "Woche",
+    "datum_der_monatswerte": null
+  },
+  {
+    "startdatum_kalenderwoche_monat": "2021-09-27",
+    "fahrgaeste_einsteiger": 1877000,
+    "kalenderwoche": 39,
+    "granularitat": "Woche",
+    "datum_der_monatswerte": null
+  },
+  {
+    "startdatum_kalenderwoche_monat": "2021-10-18",
+    "fahrgaeste_einsteiger": 2077000,
+    "kalenderwoche": 42,
+    "granularitat": "Woche",
+    "datum_der_monatswerte": null
+  },
+  {
+    "startdatum_kalenderwoche_monat": "2021-10-25",
+    "fahrgaeste_einsteiger": 2266000,
+    "kalenderwoche": 43,
+    "granularitat": "Woche",
+    "datum_der_monatswerte": null
+  },
+  {
+    "startdatum_kalenderwoche_monat": "2021-11-01",
+    "fahrgaeste_einsteiger": 2272000,
+    "kalenderwoche": 44,
+    "granularitat": "Woche",
+    "datum_der_monatswerte": null
+  },
+  {
+    "startdatum_kalenderwoche_monat": "2021-11-15",
+    "fahrgaeste_einsteiger": 1954000,
+    "kalenderwoche": 46,
+    "granularitat": "Woche",
+    "datum_der_monatswerte": null
+  },
+  {
+    "startdatum_kalenderwoche_monat": "2021-11-22",
+    "fahrgaeste_einsteiger": 2013000,
+    "kalenderwoche": 47,
+    "granularitat": "Woche",
+    "datum_der_monatswerte": null
+  },
+  {
+    "startdatum_kalenderwoche_monat": "2021-11-29",
+    "fahrgaeste_einsteiger": 2002000,
+    "kalenderwoche": 48,
+    "granularitat": "Woche",
+    "datum_der_monatswerte": null
+  },
+  {
+    "startdatum_kalenderwoche_monat": "2021-12-06",
+    "fahrgaeste_einsteiger": 1978000,
+    "kalenderwoche": 49,
+    "granularitat": "Woche",
+    "datum_der_monatswerte": null
+  },
+  {
+    "startdatum_kalenderwoche_monat": "2022-01-03",
+    "fahrgaeste_einsteiger": 1632000,
+    "kalenderwoche": 1,
+    "granularitat": "Woche",
+    "datum_der_monatswerte": null
+  },
+  {
+    "startdatum_kalenderwoche_monat": "2022-02-07",
+    "fahrgaeste_einsteiger": 1855000,
+    "kalenderwoche": 6,
+    "granularitat": "Woche",
+    "datum_der_monatswerte": null
+  },
+  {
+    "startdatum_kalenderwoche_monat": "2022-03-21",
+    "fahrgaeste_einsteiger": 1942000,
+    "kalenderwoche": 12,
+    "granularitat": "Woche",
+    "datum_der_monatswerte": null
+  },
+  {
+    "startdatum_kalenderwoche_monat": "2022-04-04",
+    "fahrgaeste_einsteiger": 2035000,
+    "kalenderwoche": 14,
+    "granularitat": "Woche",
+    "datum_der_monatswerte": null
+  },
+  {
+    "startdatum_kalenderwoche_monat": "2022-05-23",
+    "fahrgaeste_einsteiger": 1830000,
+    "kalenderwoche": 21,
+    "granularitat": "Woche",
+    "datum_der_monatswerte": null
+  },
+  {
+    "startdatum_kalenderwoche_monat": "2022-06-06",
+    "fahrgaeste_einsteiger": 1949000,
+    "kalenderwoche": 23,
+    "granularitat": "Woche",
+    "datum_der_monatswerte": null
+  },
+  {
+    "startdatum_kalenderwoche_monat": "2022-06-13",
+    "fahrgaeste_einsteiger": 2098000,
+    "kalenderwoche": 24,
+    "granularitat": "Woche",
+    "datum_der_monatswerte": null
+  },
+  {
+    "startdatum_kalenderwoche_monat": "2022-07-11",
+    "fahrgaeste_einsteiger": 1709000,
+    "kalenderwoche": 28,
+    "granularitat": "Woche",
+    "datum_der_monatswerte": null
+  },
+  {
+    "startdatum_kalenderwoche_monat": "2022-07-25",
+    "fahrgaeste_einsteiger": 1600000,
+    "kalenderwoche": 30,
+    "granularitat": "Woche",
+    "datum_der_monatswerte": null
+  },
+  {
+    "startdatum_kalenderwoche_monat": "2022-08-01",
+    "fahrgaeste_einsteiger": 1612000,
+    "kalenderwoche": 31,
+    "granularitat": "Woche",
+    "datum_der_monatswerte": null
+  },
+  {
+    "startdatum_kalenderwoche_monat": "2022-08-15",
+    "fahrgaeste_einsteiger": 2032000,
+    "kalenderwoche": 33,
+    "granularitat": "Woche",
+    "datum_der_monatswerte": null
+  },
+  {
+    "startdatum_kalenderwoche_monat": "2022-08-22",
+    "fahrgaeste_einsteiger": 2059000,
+    "kalenderwoche": 34,
+    "granularitat": "Woche",
+    "datum_der_monatswerte": null
+  },
+  {
+    "startdatum_kalenderwoche_monat": "2022-09-05",
+    "fahrgaeste_einsteiger": 2066000,
+    "kalenderwoche": 36,
+    "granularitat": "Woche",
+    "datum_der_monatswerte": null
+  },
+  {
+    "startdatum_kalenderwoche_monat": "2022-09-19",
+    "fahrgaeste_einsteiger": 2165000,
+    "kalenderwoche": 38,
+    "granularitat": "Woche",
+    "datum_der_monatswerte": null
+  },
+  {
+    "startdatum_kalenderwoche_monat": "2022-09-26",
+    "fahrgaeste_einsteiger": 2212000,
+    "kalenderwoche": 39,
+    "granularitat": "Woche",
+    "datum_der_monatswerte": null
+  },
+  {
+    "startdatum_kalenderwoche_monat": "2022-10-03",
+    "fahrgaeste_einsteiger": 2016000,
+    "kalenderwoche": 40,
+    "granularitat": "Woche",
+    "datum_der_monatswerte": null
+  },
+  {
+    "startdatum_kalenderwoche_monat": "2022-10-24",
+    "fahrgaeste_einsteiger": 2418000,
+    "kalenderwoche": 43,
+    "granularitat": "Woche",
+    "datum_der_monatswerte": null
+  },
+  {
+    "startdatum_kalenderwoche_monat": "2022-12-26",
+    "fahrgaeste_einsteiger": 1526000,
+    "kalenderwoche": 52,
+    "granularitat": "Woche",
+    "datum_der_monatswerte": null
+  },
+  {
+    "startdatum_kalenderwoche_monat": "2023-01-09",
+    "fahrgaeste_einsteiger": 2148000,
+    "kalenderwoche": 2,
+    "granularitat": "Woche",
+    "datum_der_monatswerte": null
+  },
+  {
+    "startdatum_kalenderwoche_monat": "2023-01-30",
+    "fahrgaeste_einsteiger": 2230000,
+    "kalenderwoche": 5,
+    "granularitat": "Woche",
+    "datum_der_monatswerte": null
+  },
+  {
+    "startdatum_kalenderwoche_monat": "2023-02-13",
+    "fahrgaeste_einsteiger": 2191000,
+    "kalenderwoche": 7,
+    "granularitat": "Woche",
+    "datum_der_monatswerte": null
+  },
+  {
+    "startdatum_kalenderwoche_monat": "2023-02-27",
+    "fahrgaeste_einsteiger": 1923000,
+    "kalenderwoche": 9,
+    "granularitat": "Woche",
+    "datum_der_monatswerte": null
+  },
+  {
+    "startdatum_kalenderwoche_monat": "2023-03-06",
+    "fahrgaeste_einsteiger": 2245000,
+    "kalenderwoche": 10,
+    "granularitat": "Woche",
+    "datum_der_monatswerte": null
+  },
+  {
+    "startdatum_kalenderwoche_monat": "2023-03-13",
+    "fahrgaeste_einsteiger": 2233000,
+    "kalenderwoche": 11,
+    "granularitat": "Woche",
+    "datum_der_monatswerte": null
+  },
+  {
+    "startdatum_kalenderwoche_monat": "2023-03-20",
+    "fahrgaeste_einsteiger": 2264000,
+    "kalenderwoche": 12,
+    "granularitat": "Woche",
+    "datum_der_monatswerte": null
+  },
+  {
+    "startdatum_kalenderwoche_monat": "2023-04-17",
+    "fahrgaeste_einsteiger": 2280000,
+    "kalenderwoche": 16,
+    "granularitat": "Woche",
+    "datum_der_monatswerte": null
+  },
+  {
+    "startdatum_kalenderwoche_monat": "2023-04-24",
+    "fahrgaeste_einsteiger": 2356000,
+    "kalenderwoche": 17,
+    "granularitat": "Woche",
+    "datum_der_monatswerte": null
+  },
+  {
+    "startdatum_kalenderwoche_monat": "2023-05-08",
+    "fahrgaeste_einsteiger": 2329000,
+    "kalenderwoche": 19,
+    "granularitat": "Woche",
+    "datum_der_monatswerte": null
+  },
+  {
+    "startdatum_kalenderwoche_monat": "2023-06-26",
+    "fahrgaeste_einsteiger": 2171000,
+    "kalenderwoche": 26,
+    "granularitat": "Woche",
+    "datum_der_monatswerte": null
+  },
+  {
+    "startdatum_kalenderwoche_monat": "2023-08-28",
+    "fahrgaeste_einsteiger": 2270000,
+    "kalenderwoche": 35,
+    "granularitat": "Woche",
+    "datum_der_monatswerte": null
+  },
+  {
+    "startdatum_kalenderwoche_monat": "2023-09-04",
+    "fahrgaeste_einsteiger": 2270000,
+    "kalenderwoche": 36,
+    "granularitat": "Woche",
+    "datum_der_monatswerte": null
+  },
+  {
+    "startdatum_kalenderwoche_monat": "2023-09-25",
+    "fahrgaeste_einsteiger": 2217000,
+    "kalenderwoche": 39,
+    "granularitat": "Woche",
+    "datum_der_monatswerte": null
+  },
+  {
+    "startdatum_kalenderwoche_monat": "2023-10-23",
+    "fahrgaeste_einsteiger": 2595000,
+    "kalenderwoche": 43,
+    "granularitat": "Woche",
+    "datum_der_monatswerte": null
+  },
+  {
+    "startdatum_kalenderwoche_monat": "2023-10-30",
+    "fahrgaeste_einsteiger": 2639000,
+    "kalenderwoche": 44,
+    "granularitat": "Woche",
+    "datum_der_monatswerte": null
+  },
+  {
+    "startdatum_kalenderwoche_monat": "2023-11-20",
+    "fahrgaeste_einsteiger": 2340000,
+    "kalenderwoche": 47,
+    "granularitat": "Woche",
+    "datum_der_monatswerte": null
+  },
+  {
+    "startdatum_kalenderwoche_monat": "2023-11-27",
+    "fahrgaeste_einsteiger": 2555000,
+    "kalenderwoche": 48,
+    "granularitat": "Woche",
+    "datum_der_monatswerte": null
+  },
+  {
+    "startdatum_kalenderwoche_monat": "2023-12-18",
+    "fahrgaeste_einsteiger": 2346000,
+    "kalenderwoche": 51,
+    "granularitat": "Woche",
+    "datum_der_monatswerte": null
+  },
+  {
+    "startdatum_kalenderwoche_monat": "2020-03-16",
+    "fahrgaeste_einsteiger": 822000,
+    "kalenderwoche": 12,
+    "granularitat": "Woche",
+    "datum_der_monatswerte": null
+  },
+  {
+    "startdatum_kalenderwoche_monat": "2020-04-20",
+    "fahrgaeste_einsteiger": 699000,
+    "kalenderwoche": 17,
+    "granularitat": "Woche",
+    "datum_der_monatswerte": null
+  },
+  {
+    "startdatum_kalenderwoche_monat": "2020-07-06",
+    "fahrgaeste_einsteiger": 1467000,
+    "kalenderwoche": 28,
+    "granularitat": "Woche",
+    "datum_der_monatswerte": null
+  },
+  {
+    "startdatum_kalenderwoche_monat": "2020-08-10",
+    "fahrgaeste_einsteiger": 1676000,
+    "kalenderwoche": 33,
+    "granularitat": "Woche",
+    "datum_der_monatswerte": null
+  },
+  {
+    "startdatum_kalenderwoche_monat": "2020-08-24",
+    "fahrgaeste_einsteiger": 1755000,
+    "kalenderwoche": 35,
+    "granularitat": "Woche",
+    "datum_der_monatswerte": null
+  },
+  {
+    "startdatum_kalenderwoche_monat": "2020-09-07",
+    "fahrgaeste_einsteiger": 1775000,
+    "kalenderwoche": 37,
+    "granularitat": "Woche",
+    "datum_der_monatswerte": null
+  },
+  {
+    "startdatum_kalenderwoche_monat": "2020-10-19",
+    "fahrgaeste_einsteiger": 1722000,
+    "kalenderwoche": 43,
+    "granularitat": "Woche",
+    "datum_der_monatswerte": null
+  },
+  {
+    "startdatum_kalenderwoche_monat": "2020-11-02",
+    "fahrgaeste_einsteiger": 1596000,
+    "kalenderwoche": 45,
+    "granularitat": "Woche",
+    "datum_der_monatswerte": null
+  },
+  {
+    "startdatum_kalenderwoche_monat": "2020-11-09",
+    "fahrgaeste_einsteiger": 1596000,
+    "kalenderwoche": 46,
+    "granularitat": "Woche",
+    "datum_der_monatswerte": null
+  },
+  {
+    "startdatum_kalenderwoche_monat": "2020-11-16",
+    "fahrgaeste_einsteiger": 1615000,
+    "kalenderwoche": 47,
+    "granularitat": "Woche",
+    "datum_der_monatswerte": null
+  },
+  {
+    "startdatum_kalenderwoche_monat": "2020-12-21",
+    "fahrgaeste_einsteiger": 1099000,
+    "kalenderwoche": 52,
+    "granularitat": "Woche",
+    "datum_der_monatswerte": null
+  },
+  {
+    "startdatum_kalenderwoche_monat": "2021-01-04",
+    "fahrgaeste_einsteiger": 1407000,
+    "kalenderwoche": 1,
+    "granularitat": "Woche",
+    "datum_der_monatswerte": null
+  },
+  {
+    "startdatum_kalenderwoche_monat": "2021-01-11",
+    "fahrgaeste_einsteiger": 1564000,
+    "kalenderwoche": 2,
+    "granularitat": "Woche",
+    "datum_der_monatswerte": null
+  },
+  {
+    "startdatum_kalenderwoche_monat": "2021-01-25",
+    "fahrgaeste_einsteiger": 1372000,
+    "kalenderwoche": 4,
+    "granularitat": "Woche",
+    "datum_der_monatswerte": null
+  },
+  {
+    "startdatum_kalenderwoche_monat": "2021-02-08",
+    "fahrgaeste_einsteiger": 1473000,
+    "kalenderwoche": 6,
+    "granularitat": "Woche",
+    "datum_der_monatswerte": null
+  },
+  {
+    "startdatum_kalenderwoche_monat": "2021-02-15",
+    "fahrgaeste_einsteiger": 1270000,
+    "kalenderwoche": 7,
+    "granularitat": "Woche",
+    "datum_der_monatswerte": null
+  },
+  {
+    "startdatum_kalenderwoche_monat": "2021-02-22",
+    "fahrgaeste_einsteiger": 1277000,
+    "kalenderwoche": 8,
+    "granularitat": "Woche",
+    "datum_der_monatswerte": null
+  },
+  {
+    "startdatum_kalenderwoche_monat": "2021-03-01",
+    "fahrgaeste_einsteiger": 1569000,
+    "kalenderwoche": 9,
+    "granularitat": "Woche",
+    "datum_der_monatswerte": null
+  },
+  {
+    "startdatum_kalenderwoche_monat": "2021-03-08",
+    "fahrgaeste_einsteiger": 1536000,
+    "kalenderwoche": 10,
+    "granularitat": "Woche",
+    "datum_der_monatswerte": null
+  },
+  {
+    "startdatum_kalenderwoche_monat": "2021-03-15",
+    "fahrgaeste_einsteiger": 1529000,
+    "kalenderwoche": 11,
+    "granularitat": "Woche",
+    "datum_der_monatswerte": null
+  },
+  {
+    "startdatum_kalenderwoche_monat": "2021-05-10",
+    "fahrgaeste_einsteiger": 1517000,
+    "kalenderwoche": 19,
+    "granularitat": "Woche",
+    "datum_der_monatswerte": null
+  },
+  {
+    "startdatum_kalenderwoche_monat": "2021-06-07",
+    "fahrgaeste_einsteiger": 1741000,
+    "kalenderwoche": 23,
+    "granularitat": "Woche",
+    "datum_der_monatswerte": null
+  },
+  {
+    "startdatum_kalenderwoche_monat": "2021-06-21",
+    "fahrgaeste_einsteiger": 1792000,
+    "kalenderwoche": 25,
+    "granularitat": "Woche",
+    "datum_der_monatswerte": null
+  },
+  {
+    "startdatum_kalenderwoche_monat": "2021-08-02",
+    "fahrgaeste_einsteiger": 1504000,
+    "kalenderwoche": 31,
+    "granularitat": "Woche",
+    "datum_der_monatswerte": null
+  },
+  {
+    "startdatum_kalenderwoche_monat": "2021-08-09",
+    "fahrgaeste_einsteiger": 1574000,
+    "kalenderwoche": 32,
+    "granularitat": "Woche",
+    "datum_der_monatswerte": null
+  },
+  {
+    "startdatum_kalenderwoche_monat": "2021-09-06",
+    "fahrgaeste_einsteiger": 1781000,
+    "kalenderwoche": 36,
+    "granularitat": "Woche",
+    "datum_der_monatswerte": null
+  },
+  {
+    "startdatum_kalenderwoche_monat": "2021-10-04",
+    "fahrgaeste_einsteiger": 1734000,
+    "kalenderwoche": 40,
+    "granularitat": "Woche",
+    "datum_der_monatswerte": null
+  },
+  {
+    "startdatum_kalenderwoche_monat": "2021-12-20",
+    "fahrgaeste_einsteiger": 1565000,
+    "kalenderwoche": 51,
+    "granularitat": "Woche",
+    "datum_der_monatswerte": null
+  },
+  {
+    "startdatum_kalenderwoche_monat": "2022-01-17",
+    "fahrgaeste_einsteiger": 1731000,
+    "kalenderwoche": 3,
+    "granularitat": "Woche",
+    "datum_der_monatswerte": null
+  },
+  {
+    "startdatum_kalenderwoche_monat": "2022-01-31",
+    "fahrgaeste_einsteiger": 1799000,
+    "kalenderwoche": 5,
+    "granularitat": "Woche",
+    "datum_der_monatswerte": null
+  },
+  {
+    "startdatum_kalenderwoche_monat": "2022-02-21",
+    "fahrgaeste_einsteiger": 1926000,
+    "kalenderwoche": 8,
+    "granularitat": "Woche",
+    "datum_der_monatswerte": null
+  },
+  {
+    "startdatum_kalenderwoche_monat": "2022-03-07",
+    "fahrgaeste_einsteiger": 1644000,
+    "kalenderwoche": 10,
+    "granularitat": "Woche",
+    "datum_der_monatswerte": null
+  },
+  {
+    "startdatum_kalenderwoche_monat": "2022-05-16",
+    "fahrgaeste_einsteiger": 2135000,
+    "kalenderwoche": 20,
+    "granularitat": "Woche",
+    "datum_der_monatswerte": null
+  },
+  {
+    "startdatum_kalenderwoche_monat": "2022-06-20",
+    "fahrgaeste_einsteiger": 2008000,
+    "kalenderwoche": 25,
+    "granularitat": "Woche",
+    "datum_der_monatswerte": null
+  },
+  {
+    "startdatum_kalenderwoche_monat": "2022-06-27",
+    "fahrgaeste_einsteiger": 2020000,
+    "kalenderwoche": 26,
+    "granularitat": "Woche",
+    "datum_der_monatswerte": null
+  },
+  {
+    "startdatum_kalenderwoche_monat": "2022-07-18",
+    "fahrgaeste_einsteiger": 1641000,
+    "kalenderwoche": 29,
+    "granularitat": "Woche",
+    "datum_der_monatswerte": null
+  },
+  {
+    "startdatum_kalenderwoche_monat": "2022-08-08",
+    "fahrgaeste_einsteiger": 1869000,
+    "kalenderwoche": 32,
+    "granularitat": "Woche",
+    "datum_der_monatswerte": null
+  },
+  {
+    "startdatum_kalenderwoche_monat": "2022-08-29",
+    "fahrgaeste_einsteiger": 1997000,
+    "kalenderwoche": 35,
+    "granularitat": "Woche",
+    "datum_der_monatswerte": null
+  },
+  {
+    "startdatum_kalenderwoche_monat": "2022-09-12",
+    "fahrgaeste_einsteiger": 2121000,
+    "kalenderwoche": 37,
+    "granularitat": "Woche",
+    "datum_der_monatswerte": null
+  },
+  {
+    "startdatum_kalenderwoche_monat": "2022-10-10",
+    "fahrgaeste_einsteiger": 2031000,
+    "kalenderwoche": 41,
+    "granularitat": "Woche",
+    "datum_der_monatswerte": null
+  },
+  {
+    "startdatum_kalenderwoche_monat": "2022-10-17",
+    "fahrgaeste_einsteiger": 2204000,
+    "kalenderwoche": 42,
+    "granularitat": "Woche",
+    "datum_der_monatswerte": null
+  },
+  {
+    "startdatum_kalenderwoche_monat": "2022-10-31",
+    "fahrgaeste_einsteiger": 2546000,
+    "kalenderwoche": 44,
+    "granularitat": "Woche",
+    "datum_der_monatswerte": null
+  },
+  {
+    "startdatum_kalenderwoche_monat": "2022-11-21",
+    "fahrgaeste_einsteiger": 2273000,
+    "kalenderwoche": 47,
+    "granularitat": "Woche",
+    "datum_der_monatswerte": null
+  },
+  {
+    "startdatum_kalenderwoche_monat": "2022-11-28",
+    "fahrgaeste_einsteiger": 2313000,
+    "kalenderwoche": 48,
+    "granularitat": "Woche",
+    "datum_der_monatswerte": null
+  },
+  {
+    "startdatum_kalenderwoche_monat": "2023-03-27",
+    "fahrgaeste_einsteiger": 2245000,
+    "kalenderwoche": 13,
+    "granularitat": "Woche",
+    "datum_der_monatswerte": null
+  },
+  {
+    "startdatum_kalenderwoche_monat": "2023-05-01",
+    "fahrgaeste_einsteiger": 2119000,
+    "kalenderwoche": 18,
+    "granularitat": "Woche",
+    "datum_der_monatswerte": null
+  },
+  {
+    "startdatum_kalenderwoche_monat": "2023-05-15",
+    "fahrgaeste_einsteiger": 2077000,
+    "kalenderwoche": 20,
+    "granularitat": "Woche",
+    "datum_der_monatswerte": null
+  },
+  {
+    "startdatum_kalenderwoche_monat": "2023-05-22",
+    "fahrgaeste_einsteiger": 2230000,
+    "kalenderwoche": 21,
+    "granularitat": "Woche",
+    "datum_der_monatswerte": null
+  },
+  {
+    "startdatum_kalenderwoche_monat": "2023-06-05",
+    "fahrgaeste_einsteiger": 2229000,
+    "kalenderwoche": 23,
+    "granularitat": "Woche",
+    "datum_der_monatswerte": null
+  },
+  {
+    "startdatum_kalenderwoche_monat": "2023-06-12",
+    "fahrgaeste_einsteiger": 2402000,
+    "kalenderwoche": 24,
+    "granularitat": "Woche",
+    "datum_der_monatswerte": null
+  },
+  {
+    "startdatum_kalenderwoche_monat": "2023-06-19",
+    "fahrgaeste_einsteiger": 2222000,
+    "kalenderwoche": 25,
+    "granularitat": "Woche",
+    "datum_der_monatswerte": null
+  },
+  {
+    "startdatum_kalenderwoche_monat": "2023-07-10",
+    "fahrgaeste_einsteiger": 1792000,
+    "kalenderwoche": 28,
+    "granularitat": "Woche",
+    "datum_der_monatswerte": null
+  },
+  {
+    "startdatum_kalenderwoche_monat": "2023-07-31",
+    "fahrgaeste_einsteiger": 1667000,
+    "kalenderwoche": 31,
+    "granularitat": "Woche",
+    "datum_der_monatswerte": null
+  },
+  {
+    "startdatum_kalenderwoche_monat": "2023-08-07",
+    "fahrgaeste_einsteiger": 1934000,
+    "kalenderwoche": 32,
+    "granularitat": "Woche",
+    "datum_der_monatswerte": null
+  },
+  {
+    "startdatum_kalenderwoche_monat": "2023-08-14",
+    "fahrgaeste_einsteiger": 2145000,
+    "kalenderwoche": 33,
+    "granularitat": "Woche",
+    "datum_der_monatswerte": null
+  },
+  {
+    "startdatum_kalenderwoche_monat": "2023-08-21",
+    "fahrgaeste_einsteiger": 2203000,
+    "kalenderwoche": 34,
+    "granularitat": "Woche",
+    "datum_der_monatswerte": null
+  },
+  {
+    "startdatum_kalenderwoche_monat": "2023-09-11",
+    "fahrgaeste_einsteiger": 2115000,
+    "kalenderwoche": 37,
+    "granularitat": "Woche",
+    "datum_der_monatswerte": null
+  },
+  {
+    "startdatum_kalenderwoche_monat": "2023-10-02",
+    "fahrgaeste_einsteiger": 1927000,
+    "kalenderwoche": 40,
+    "granularitat": "Woche",
+    "datum_der_monatswerte": null
+  },
+  {
+    "startdatum_kalenderwoche_monat": "2024-02-01",
+    "fahrgaeste_einsteiger": 9220000,
+    "kalenderwoche": null,
+    "granularitat": "Monat",
+    "datum_der_monatswerte": "2024-02"
+  },
+  {
+    "startdatum_kalenderwoche_monat": "2024-03-01",
+    "fahrgaeste_einsteiger": 9900000,
+    "kalenderwoche": null,
+    "granularitat": "Monat",
+    "datum_der_monatswerte": "2024-03"
+  },
+  {
+    "startdatum_kalenderwoche_monat": "2024-04-01",
+    "fahrgaeste_einsteiger": 9180000,
+    "kalenderwoche": null,
+    "granularitat": "Monat",
+    "datum_der_monatswerte": "2024-04"
+  },
+  {
+    "startdatum_kalenderwoche_monat": "2024-05-01",
+    "fahrgaeste_einsteiger": 9830000,
+    "kalenderwoche": null,
+    "granularitat": "Monat",
+    "datum_der_monatswerte": "2024-05"
+  },
+  {
+    "startdatum_kalenderwoche_monat": "2024-08-01",
+    "fahrgaeste_einsteiger": 9110000,
+    "kalenderwoche": null,
+    "granularitat": "Monat",
+    "datum_der_monatswerte": "2024-08"
+  },
+  {
+    "startdatum_kalenderwoche_monat": "2024-01-01",
+    "fahrgaeste_einsteiger": 9830000,
+    "kalenderwoche": null,
+    "granularitat": "Monat",
+    "datum_der_monatswerte": "2024-01"
+  },
+  {
+    "startdatum_kalenderwoche_monat": "2024-07-01",
+    "fahrgaeste_einsteiger": 8250000,
+    "kalenderwoche": null,
+    "granularitat": "Monat",
+    "datum_der_monatswerte": "2024-07"
+  },
+  {
+    "startdatum_kalenderwoche_monat": "2024-06-01",
+    "fahrgaeste_einsteiger": 9620000,
+    "kalenderwoche": null,
+    "granularitat": "Monat",
+    "datum_der_monatswerte": "2024-06"
+  }
+]
