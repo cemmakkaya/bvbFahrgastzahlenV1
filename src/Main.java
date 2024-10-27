@@ -1,9 +1,9 @@
 /**
  * Main-Klasse für die Analyse von Fahrgastdaten
- * Diese Klasse enthält das Hauptprogramm zur Analyse von Fahrgastdaten aus einem eingebetteten JSON-String
+ * Diese Klasse enthält das Hauptprogramm zur Analyse von Fahrgastdaten aus einer JSON-Datei
  *
  * Features:
- * - Lädt Fahrgastdaten aus einem eingebetteten JSON-String
+ * - Lädt Fahrgastdaten aus einer JSON-Datei
  * - Ermöglicht die Analyse nach verschiedenen Zeiträumen (Jahr, Quartal, Monat, Woche)
  * - Benutzerinteraktion über Konsoleneingaben
  * - Formatierte Ausgabe der Analyseergebnisse
@@ -11,6 +11,9 @@
  * @author Cem Akkaya & Daniel Fluri
  * @version 1.0
  */
+import java.io.IOException;
+import java.nio.file.Files;
+import java.nio.file.Paths;
 import java.util.List;
 import java.util.Scanner;
 
@@ -20,13 +23,16 @@ public class Main {
      * @param args Kommandozeilenargumente (werden nicht verwendet)
      */
     public static void main(String[] args) {
-        // Einbetten der JSON-Daten direkt im Code
-        String jsonData = "[" +
-                // Hier kommt der gesamte JSON-Inhalt aus 100075.json
-                // Der Inhalt wurde aus Platzgründen gekürzt - hier müsste der vollständige JSON-String eingefügt werden
-                "{\"startdatum_kalenderwoche_monat\":\"2020-02-03\",\"fahrgaeste_einsteiger\":2507000,\"kalenderwoche\":6,\"granularitat\":\"Woche\",\"datum_der_monatswerte\":null}" +
-                // ... Rest der JSON-Daten ...
-                "]";
+        String jsonData;
+        try {
+            // Lese die JSON-Datei
+            jsonData = Files.readString(Paths.get("src/100075.json"));
+            System.out.println("JSON-Datei erfolgreich geladen.");
+        } catch (IOException e) {
+            System.err.println("Fehler beim Lesen der JSON-Datei: " + e.getMessage());
+            e.printStackTrace();
+            return;
+        }
 
         // Initialisiere den DataLoader mit den JSON-Daten
         DataLoader loader = new DataLoader(jsonData);
