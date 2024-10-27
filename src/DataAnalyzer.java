@@ -4,7 +4,7 @@
  * Diese Klasse analysiert Fahrgastdaten für verschiedene Zeiträume und berechnet
  * statistische Kennzahlen wie Minimum, Maximum und Durchschnitt der Fahrgastzahlen.
  *
- * @author Cem Akkaya & Daniel Fluri
+ * @author Cem Akkaya & Flower Dan Fluri
  * @version 1.0
  */
 import java.time.LocalDate;

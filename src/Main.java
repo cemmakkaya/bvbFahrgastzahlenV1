@@ -8,7 +8,7 @@
  * - Benutzerinteraktion über Konsoleneingaben
  * - Formatierte Ausgabe der Analyseergebnisse
  *
- * @author Cem Akkaya & Daniel Fluri
+ * @author Cem Akkaya & Flower Dan Fluri
  * @version 1.0
  */
 import java.io.IOException;

@@ -4,7 +4,7 @@
  * Diese Klasse verarbeitet JSON-formatierte Fahrgastdaten und konvertiert sie
  * in eine Liste von PassengerData-Objekten.
  *
- * @author Cem Akkaya & Daniel Fluri
+ * @author Cem Akkaya & Flower Dan Fluri
  * @version 1.0
  */
 import java.util.ArrayList;

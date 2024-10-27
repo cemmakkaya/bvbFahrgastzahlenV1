@@ -4,7 +4,7 @@
  * Diese Klasse repräsentiert einen einzelnen Datensatz von Fahrgastdaten,
  * bestehend aus Datum, Fahrgastanzahl, Kalenderwoche und weiteren Metadaten.
  *
- * @author Cem Akkaya & Daniel Fluri
+ * @author Cem Akkaya & Flower Dan Fluri
  * @version 1.0
  */
 public class PassengerData {
