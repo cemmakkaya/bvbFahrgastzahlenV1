@@ -1,78 +1,79 @@
-# Passenger Data Analysis Program (V1)
+# Fahrgastdaten-Analyseprogramm (V1)
 
-## Overview
-This Java program analyzes passenger data from public transportation systems. It processes JSON-formatted passenger count data and provides statistical analysis for different time periods (yearly, quarterly, monthly, and weekly).
+## Version 1.0
 
-## Authors
+### Überblick
+Dieses Java-Programm analysiert Fahrgastdaten des öffentlichen Nahverkehrs. Es verarbeitet JSON-formatierte Fahrgastzählungen und bietet statistische Analysen für verschiedene Zeiträume.
+
+### Autoren
 - Cem Akkaya
 - Flower Dan Fluri
 
-## Features
-- Load and parse passenger data from JSON files
-- Analyze passenger numbers for different time periods:
-  - Yearly analysis (YYYY)
-  - Quarterly analysis (YYYY-QN)
-  - Monthly analysis (YYYY-MM)
-  - Weekly analysis (YYYY-WNN)
-- Calculate key statistics:
-  - Minimum passenger count
-  - Maximum passenger count
-  - Average passenger count
-- Interactive command-line interface
-- Data validation and error handling
-- Support for different data granularities
+### Funktionen
+- Laden und Verarbeiten von Fahrgastdaten aus JSON-Dateien
+- Analyse von Fahrgastzahlen für verschiedene Zeiträume:
+  - Jahresanalyse (JJJJ)
+  - Quartalsanalyse (JJJJ-QN)
+  - Monatsanalyse (JJJJ-MM)
+  - Wochenanalyse (JJJJ-WNN)
+- Berechnung wichtiger Statistiken:
+  - Minimale Fahrgastzahl
+  - Maximale Fahrgastzahl
+  - Durchschnittliche Fahrgastzahl
+- Interaktive Benutzeroberfläche
+- Fehlerbehandlung
+- Unterstützung verschiedener Datenstrukturen
 
-## System Requirements
-- Java Runtime Environment (JRE) 8 or higher
-- Sufficient memory to process large JSON files
-- Read access to the input JSON file
+### Systemvoraussetzungen
+- Java Runtime Environment (JRE) 8 oder höher
+- Ausreichend Arbeitsspeicher für die Datenverarbeitung
+- Lesezugriff auf die Eingabe-JSON-Datei
 
-## Project Structure
+### Projektstruktur
 ```
 src/
-├── Main.java              # Main program entry point and user interface
-├── DataAnalyzer.java      # Core analysis functionality
-├── DataLoader.java        # JSON data parsing and loading
-├── PassengerData.java     # Data model class
-└── 100075.json           # Sample passenger data file
+├── Main.java              # Hauptprogramm und Benutzeroberfläche
+├── DataAnalyzer.java      # Kernfunktionalität zur Analyse
+├── DataLoader.java        # JSON-Datenverarbeitung
+├── PassengerData.java     # Datenmodell
+└── 100075.json           # Beispiel-Fahrgastdaten
 ```
 
-## Installation
-1. Clone the repository or download the source files
-2. Ensure you have Java installed on your system
-3. Place your JSON data file in the `src` directory
-4. Compile the Java files:
+### Installation
+1. Repository klonen oder Quelldateien herunterladen
+2. Java auf dem System installieren
+3. JSON-Datendatei im `src`-Verzeichnis platzieren
+4. Java-Dateien kompilieren:
    ```bash
    javac *.java
    ```
 
-## Usage
-1. Run the program:
+### Verwendung
+1. Programm starten:
    ```bash
    java Main
    ```
-2. Enter time periods in one of the following formats:
-   - Year: `YYYY` (e.g., 2020)
-   - Quarter: `YYYY-QN` (e.g., 2020-Q1)
-   - Month: `YYYY-MM` (e.g., 2020-02)
-   - Week: `YYYY-WNN` (e.g., 2020-W06)
-3. Type 'exit' to quit the program
+2. Zeiträume in einem der folgenden Formate eingeben:
+   - Jahr: JJJJ (z.B. 2020)
+   - Quartal: JJJJ-QN (z.B. 2020-Q1)
+   - Monat: JJJJ-MM (z.B. 2020-02)
+   - Woche: JJJJ-WNN (z.B. 2020-W06)
+3. 'exit' eingeben zum Beenden
 
-## Input Data Format
-The program expects JSON data in the following format:
+### Eingabedatenformat
 ```json
 [
   {
-    "startdatum_kalenderwoche_monat": "YYYY-MM-DD",
-    "fahrgaeste_einsteiger": number,
-    "kalenderwoche": number,
+    "startdatum_kalenderwoche_monat": "JJJJ-MM-TT",
+    "fahrgaeste_einsteiger": nummer,
+    "kalenderwoche": nummer,
     "granularitat": "string",
-    "datum_der_monatswerte": "YYYY-MM"
+    "datum_der_monatswerte": "JJJJ-MM"
   }
 ]
 ```
 
-## Example Output
+### Beispielausgabe
 ```
 Analyseergebnis:
 Zeitraum: 2020-Q1
@@ -81,30 +82,15 @@ Grösste Fahrgastanzahl: 2538000
 Durchschnittliche Fahrgastanzahl: 1548750.00
 ```
 
-## Error Handling
-The program includes comprehensive error handling for:
-- Invalid JSON format
-- Missing or corrupted data files
-- Invalid date formats
-- Invalid user input
-- Out-of-range values
+### Fehlerbehandlung
+Das Programm behandelt folgende Fehler:
+- Ungültiges JSON-Format
+- Fehlende oder beschädigte Dateien
+- Ungültige Datumsformate
+- Ungültige Benutzereingaben
 
-## Limitations
-- Data range is limited to 2020-02 through 2024-08
-- Only supports German-formatted JSON input files
-- Single file processing at a time
-- Memory constraints based on available system RAM
-
-## Contributing
-To contribute to this project:
-1. Fork the repository
-2. Create a feature branch
-3. Commit your changes
-4. Push to the branch
-5. Create a Pull Request
-
-## License
-This project is available under the MIT License. See the LICENSE file for more details.
-
-## Support
-For support and bug reports, please open an issue in the project's issue tracker.
+### Einschränkungen
+- Datenzeitraum von 2020-02 bis 2024-08
+- Nur deutschsprachige JSON-Eingabedateien
+- Einzeldateiverarbeitung
+- Arbeitsspeicherbegrenzung durch System
