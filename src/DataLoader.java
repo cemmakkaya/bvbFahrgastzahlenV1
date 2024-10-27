@@ -134,12 +134,10 @@ public class DataLoader {
 
         int end;
         if (json.charAt(start) == '"') {
-            // String-Wert
             start++;
             end = json.indexOf("\"", start);
             if (end == -1) return null;
         } else {
-            // Numerischer Wert oder null
             end = json.indexOf(",", start);
             if (end == -1) {
                 end = json.indexOf("}", start);

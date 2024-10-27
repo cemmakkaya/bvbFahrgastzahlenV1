@@ -10,9 +10,9 @@
 public class PassengerData {
     private String startDate;         // Startdatum des Messzeitraums
     private int passengers;           // Anzahl der Fahrgäste
-    private Integer calendarWeek;     // Kalenderwoche (optional)
-    private String granularity;       // Granularität der Daten (z.B. "Woche", "Monat")
-    private String monthlyDate;       // Monatsdatum (optional)
+    private Integer calendarWeek;     // Kalenderwoche
+    private String granularity;       // Granularität der Daten
+    private String monthlyDate;       // Monatsdatum
 
     /**
      * Konstruktor für PassengerData
